@@ -14,6 +14,7 @@ an array is a single variable used to store an ordered collection of multiple va
 - Arrays & Strings (searching, reversing, rotations, sliding window).
 - Hashing basics (maps, sets).
 - Recursion fundamentals.
+
 - Linked Lists (singly, doubly, reverse, detect cycle).
 - Stacks & Queues (monotonic stack, min stack, circular queue).
 - Hashmaps/Hashsets.
@@ -33,6 +34,7 @@ an array is a single variable used to store an ordered collection of multiple va
 - 2D DP: Grid paths, Unique Paths, Coin Change.
 - String DP: Edit Distance, Longest Common Subsequence, Palindromes.
 - Knapsack variations.
+
 ## Advance
 - Backtracking (N-Queens, Sudoku, subsets, permutations).
 - Greedy algorithms (interval scheduling, Huffman coding).
